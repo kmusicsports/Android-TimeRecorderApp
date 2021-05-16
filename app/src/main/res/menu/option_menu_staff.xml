@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/item_addStaff"
+        android:orderInCategory="0"
+        android:title="@string/title_add_new"
+        android:icon="@drawable/ic_baseline_add_24"
+        app:showAsAction="ifRoom"/>
+
+    <item
+        android:id="@+id/item_delete_multiple"
+        android:orderInCategory="1"
+        android:title="@string/title_delete_multiple"
+        android:icon="@drawable/ic_baseline_delete_24"
+        app:showAsAction="ifRoom"/>
+</menu>

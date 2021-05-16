@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/item_add"
+        android:orderInCategory="0"
+        android:icon="@drawable/ic_baseline_add_24"
+        android:title="@string/title_manual_record"
+        app:showAsAction="ifRoom"/>
+
+    <item
+        android:id="@+id/item_calculation"
+        android:orderInCategory="1"
+        android:icon="@drawable/ic_baseline_calculate_24"
+        android:title="@string/title_salary_calculation"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/item_closing_date"
+        android:orderInCategory="2"
+        android:icon="@drawable/ic_baseline_calculate_24"
+        android:title="@string/title_closing_date"
+        app:showAsAction="never"/>
+
+</menu>

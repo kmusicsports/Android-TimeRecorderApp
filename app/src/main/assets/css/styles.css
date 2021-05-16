@@ -1,0 +1,52 @@
+     /*
+     h1 {
+          color:blue;
+          color:rgb(0, 255, 0); /*CSS では、同じセレクターに対して同じプロパティを複数設定した場合、あとから書いたほうが優先される */
+          /* color:#00ff00; */
+          /* color:#0f0;\ */
+     /* } */
+
+     body {
+          color:#333;
+          font-family: Verdana,sans-serif; /* sans-serifはゴシック体フォント */
+          margin: 0;
+     }
+
+     header {
+          padding-top: 16px;
+          padding-bottom: 16px;
+     }
+
+     .info {
+          margin-left: 16px;
+          margin-right: 16px;
+     }
+
+     .info h1 {
+          font-size: 24px;
+          margin: 0;
+     }
+
+     .works {
+          margin-left: 16px;
+          margin-right: 16px;
+     }
+
+     .works section {
+          margin-bottom: 48px;
+     }
+
+     .works p {
+          line-height: 1.8; /* 行間を空ける（p の行の高さ（幅）を文字サイズの 1.8 倍に） */
+     }
+
+     .works ol {
+          padding-left: 20px;
+     }
+
+     footer p {
+          font-size: 14px;
+          margin-bottom: 60px;
+          margin-left: 16px;
+          color: gray;
+     }

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/export_d_label_guide"
+        android:layout_margin="15dp"/>
+
+    <EditText
+        android:id="@+id/export_d_edit_text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/export_d_hint"
+        android:autofillHints="@string/export_d_hint"
+        android:inputType="textEmailAddress"
+        android:layout_margin="15dp"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/export_d_label_warning"
+        android:layout_margin="15dp"/>
+</LinearLayout>

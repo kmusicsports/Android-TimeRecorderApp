@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="spinner_action_prompt">種別</string>
+    <string-array name="spinner_action_items">
+        <item> </item>
+        <item>出勤</item>
+        <item>退勤</item>
+        <item>休憩開始</item>
+        <item>休憩終了</item>
+        <item>外出</item>
+        <item>帰社</item>
+    </string-array>
+
+    <string name="spinner_day_prompt">日</string>
+    <string-array name="spinner_day_items">
+        <item>    </item>
+        <item>5   </item>
+        <item>10  </item>
+        <item>15  </item>
+        <item>20  </item>
+        <item>25  </item>
+        <item>月末</item>
+    </string-array>
+</resources>

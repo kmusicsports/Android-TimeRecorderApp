@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="spinner_action_prompt">Type</string>
+    <string-array name="spinner_action_items">
+        <item> </item>
+        <item>Start of work</item>
+        <item>End of work</item>
+        <item>Start of break</item>
+        <item>End of break</item>
+        <item>Going out</item>
+        <item>Return to office</item>
+    </string-array>
+
+    <string name="spinner_day_prompt">Day</string>
+    <string-array name="spinner_day_items">
+        <item>                </item>
+        <item>5               </item>
+        <item>10              </item>
+        <item>15              </item>
+        <item>20              </item>
+        <item>25              </item>
+        <item>End of the month</item>
+    </string-array>
+</resources>

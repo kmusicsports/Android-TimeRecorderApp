@@ -1,0 +1,151 @@
+<resources>
+
+    <string name="app_name">TimeCard</string>
+
+    <string name="hint_default_value">0</string>
+    <string name="hint_name">Name</string>
+    <string name="hint_new_password">新しいパスワードを入力</string>
+    <string name="hint_new_password_again">もう一度新しいパスワードを入力</string>
+    <string name="hint_password">Password</string>
+
+    <string name="label_access_permission">管理者権限へのアクセス</string>
+    <string name="label_add">追加</string>
+    <string name="label_apply">適用</string>
+    <string name="label_arrow">↓</string>
+    <string name="label_break">  休憩\n始 / 終</string>
+    <string name="label_cancel">キャンセル</string>
+    <string name="label_change">変更</string>
+    <string name="label_changed">変更しました</string>
+    <string name="label_close">閉じる</string>
+    <string name="label_date_hint">2021/01/01(金)</string>
+    <string name="label_default">Text</string>
+    <string name="label_delete">削除</string>
+    <string name="label_display_range">表示期間:</string>
+    <string name="label_end_of_break">休憩終了</string>
+    <string name="label_end_of_work">退勤</string>
+    <string name="label_from_to">～</string>
+    <string name="label_input_password">パスワードを入力してください</string>
+    <string name="label_no_data">データがありません</string>
+    <string name="label_no_match">入力された２つのパスワードが合致しません</string>
+    <string name="label_no_password">パスワードが正しく入力されていません</string>
+    <string name="label_no_staff">従業員を登録してください</string>
+    <string name="label_ok">OK</string>
+    <string name="label_outing">外出</string>
+    <string name="label_outing_return">外出/帰社</string>
+    <string name="label_record_cancel">記録を中止しました</string>
+    <string name="label_recorded">記録しました</string>
+    <string name="label_return_to_office">帰社</string>
+    <string name="label_save">保存</string>
+    <string name="label_send">送信</string>
+    <string name="label_name">名前 : </string>
+    <string name="label_start_of_break">休憩開始</string>
+    <string name="label_start_of_work">出勤</string>
+    <string name="label_work">出退勤</string>
+    <string name="label_wrong_password">パスワードが違います</string>
+
+
+    <string name="title_add_new">新規追加</string>
+    <string name="title_app_information">アプリについて</string>
+    <string name="title_change_name">名前変更</string>
+    <string name="title_change_password">パスワード変更</string>
+    <string name="title_closing_date">締め日を設定</string>
+    <string name="title_delete_multiple">複数削除</string>
+    <string name="title_display_records">タイムカード</string>
+    <string name="title_export">記録メール送信</string>
+    <string name="title_filter">フィルター</string>
+    <string name="title_guide0">従業員を登録する</string>
+    <string name="title_guide1">従業員の操作</string>
+    <string name="title_guide2">実労働時間(正味就業時間), 給料を表示する</string>
+    <string name="title_guide3">従業員の時給を設定する</string>
+    <string name="title_help">ヘルプ</string>
+    <string name="title_home">ホーム</string>
+    <string name="title_hourly_wage">時給設定</string>
+    <string name="title_inquiry">お問い合わせ</string>
+    <string name="title_license">ライセンス</string>
+    <string name="title_manager_menu">管理者メニュー</string>
+    <string name="title_manual_record">手動記録</string>
+    <string name="title_question0">現在準備中</string>
+    <string name="title_salary_calculation">給料計算</string>
+    <string name="title_sc_mr">給料計算・手動記録</string>
+    <string name="title_setting">設定</string>
+    <string name="title_sort">並び替え</string>
+    <string name="title_staff_main">従業員管理</string>
+    <string name="title_terms_of_use">利用規約</string>
+    <string name="title_version">バージョン</string>
+
+    <string name="as_d_label_already">すでに登録されています</string>
+    <string name="as_d_label_enter_name">従業員名を入力してください</string>
+
+    <string name="cd_d_label">現在の値 : </string>
+
+    <string name="cp_a_label_agree">利用規約に同意します</string>
+    <string name="cp_a_label_not_checked">利用規約に同意して、チェックボックスにチェックを入れてください</string>
+    <string name="cp_a_label_start">利用を開始する</string>
+
+    <string name="dr_f_label_action">種別</string>
+    <string name="dr_f_label_date">日付</string>
+    <string name="dr_f_label_filter_disabled">フィルターを無効にしました</string>
+    <string name="dr_f_label_name">名前</string>
+    <string name="dr_f_label_not_correct">条件を正しく指定してください</string>
+    <string name="dr_f_label_time">時刻</string>
+
+    <string name="export_d_hint">メールアドレス</string>
+    <string name="export_d_label_guide">記録を送信するメールアドレスを入力してください</string>
+    <string name="export_d_label_sending_completed">送信が完了しました</string>
+    <string name="export_d_label_warning">※ファイルが破損していた等の場合は、再送信してください</string>
+
+    <string name="g0_a_label_0">従業員を登録するには、次の操作を行ってください。</string>
+    <string name="g0_a_label_1">1.「設定」へ</string>
+    <string name="g0_a_label_2">2.「管理者メニュー」を選択する</string>
+    <string name="g0_a_label_3">3.「従業員管理」を選択する</string>
+    <string name="g0_a_label_4">4. 右下のプラスボタン「＋」を押す</string>
+    <string name="g0_a_label_5">5. 追加したい従業員の名前を入力する</string>
+    <string name="g0_a_label_6">6.「OK」ボタンを押す</string>
+
+    <string name="g1_a_label_0">従業員の方は、次の操作を行ってください。</string>
+    <string name="g1_a_label_1">1.「ホーム」へ</string>
+    <string name="g1_a_label_2">2. 自分の名前のボタンを押す</string>
+    <string name="g1_a_label_3">3.「出退勤」/「休憩 始/終」/「外出/帰社」のどれかのボタンを押す</string>
+    <string name="g1_a_label_4">4. 表示されたダイアログに書かれた内容を確認する</string>
+    <string name="g1_a_label_5">5. 内容が正しければ「保存」ボタン、違っていれば「キャンセル」ボタンを押す</string>
+
+    <string name="g2_a_label_0">実労働時間(正味就業時間), 給料を表示するには、次の操作を行ってください。</string>
+    <string name="g2_a_label_1">1.「設定」へ</string>
+    <string name="g2_a_label_2">2.「管理者メニュー」を選択する</string>
+    <string name="g2_a_label_3">3.「給料計算・手動記録」を選択する</string>
+    <string name="g2_a_label_4">4. 右上のオプションメニュー「︙」から「給料計算」を選択する</string>
+    <string name="g2_a_label_5">5.「従業員名」と「表示期間」の両方を入力する</string>
+    <string name="g2_a_label_6">6.「OK」ボタンを押す</string>
+
+    <string name="g3_a_label_0">従業員の時給を設定するには、次の操作を行ってください。</string>
+    <string name="g3_a_label_1">1.「設定」へ</string>
+    <string name="g3_a_label_2">2.「管理者メニュー」を選択する</string>
+    <string name="g3_a_label_3">3.「従業員管理」を選択する</string>
+    <string name="g3_a_label_4">4. 時給を設定したい従業員を選択する</string>
+    <string name="g3_a_label_5">5.「時給設定」を選択する</string>
+    <string name="g3_a_label_6">6. 時給を入力する</string>
+    <string name="g3_a_label_7">7.「設定」ボタンを押す</string>
+
+    <string name="help_a_label_guide">ガイド</string>
+    <string name="help_a_label_question">よくある質問</string>
+
+    <string name="mr_d_label_action">種別 : </string>
+    <string name="mr_d_label_all_requirements">すべての条件を入力してください</string>
+    <string name="mr_d_label_date">日付:</string>
+    <string name="mr_d_label_time">時刻:</string>
+    <string name="mr_d_label_time_hint">12:00</string>
+
+    <string name="setting_f_label_information_here">ここに内容を入力してください</string>
+
+    <string name="sc_a_label_salary">(時間) です。\n 給料は </string>
+    <string name="sc_a_label_working_hours">表示範囲の実労働時間は </string>
+
+    <string name="sm_f_hint">検索</string>
+    <string name="sm_f_label_hourly_wage">時給: </string>
+
+    <string name="sort_d_label_asc">日付昇順</string>
+    <string name="sort_d_label_desc">日付降順</string>
+
+    <string name="splash_a_label">loading.....</string>
+
+</resources>

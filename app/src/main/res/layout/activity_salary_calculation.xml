@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".DisplayRecordsFragment">
+
+    <TextView
+        android:id="@+id/sc_a_text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAlignment="center" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <TableLayout
+            android:id="@+id/sc_a_layout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="5sp">
+            <TableRow
+                android:background="@android:color/darker_gray"
+                tools:ignore="UselessParent">
+                <TextView
+                    android:layout_weight="1"
+                    android:text="@string/dr_f_label_date"
+                    android:background="@color/light_gray"
+                    android:padding="5sp"
+                    android:layout_margin="1sp" />
+                <TextView
+                    android:layout_weight="1"
+                    android:text="@string/dr_f_label_name"
+                    android:background="@color/light_gray"
+                    android:padding="5sp"
+                    android:layout_margin="1sp" />
+                <TextView
+                    android:layout_weight="1"
+                    android:text="@string/dr_f_label_action"
+                    android:background="@color/light_gray"
+                    android:padding="5sp"
+                    android:layout_margin="1sp" />
+                <TextView
+                    android:layout_weight="1"
+                    android:text="@string/dr_f_label_time"
+                    android:background="@color/light_gray"
+                    android:padding="5sp"
+                    android:layout_margin="1sp" />
+            </TableRow>
+        </TableLayout>
+    </ScrollView>
+
+</LinearLayout>

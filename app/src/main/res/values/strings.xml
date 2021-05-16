@@ -1,0 +1,151 @@
+<resources>
+
+    <string name="app_name">TimeCard</string>
+
+    <string name="hint_default_value">0</string>
+    <string name="hint_name">Name</string>
+    <string name="hint_new_password">Enter new password</string>
+    <string name="hint_new_password_again">Enter the new password again</string>
+    <string name="hint_password">Password</string>
+
+    <string name="label_access_permission">Access to administrative privileges</string>
+    <string name="label_add">Add</string>
+    <string name="label_apply">Apply</string>
+    <string name="label_arrow">↓</string>
+    <string name="label_break">Break</string>
+    <string name="label_cancel">Cancel</string>
+    <string name="label_change">Change</string>
+    <string name="label_changed">It was changed</string>
+    <string name="label_close">Close</string>
+    <string name="label_date_hint">2021/01/01(Fri)</string>
+    <string name="label_default">Text</string>
+    <string name="label_delete">Delete</string>
+    <string name="label_display_range">Period of time:</string>
+    <string name="label_end_of_break">End of break</string>
+    <string name="label_end_of_work">End of work</string>
+    <string name="label_from_to">～</string>
+    <string name="label_input_password">Enter the password</string>
+    <string name="label_name">Name : </string>
+    <string name="label_no_data">There is no data</string>
+    <string name="label_no_match">The two passwords you entered do not match</string>
+    <string name="label_no_password">Password is not entered correctly</string>
+    <string name="label_no_staff">Register your employees</string>
+    <string name="label_ok">OK</string>
+    <string name="label_outing">Going out</string>
+    <string name="label_outing_return">Outing</string>
+    <string name="label_record_cancel">Recording has been canceled</string>
+    <string name="label_recorded">It was recorded</string>
+    <string name="label_return_to_office">Return to office</string>
+    <string name="label_save">Save</string>
+    <string name="label_send">Send</string>
+    <string name="label_start_of_break">Start of break</string>
+    <string name="label_start_of_work">Start of work</string>
+    <string name="label_work">Work</string>
+    <string name="label_wrong_password">The password is wrong</string>
+
+    <string name="title_add_new">Add new</string>
+    <string name="title_app_information">About the App</string>
+    <string name="title_change_name">Change name</string>
+
+    <string name="title_change_password">Change password</string>
+    <string name="title_closing_date">Closing date setting</string>
+    <string name="title_delete_multiple">Delete multiple</string>
+    <string name="title_display_records">Time Card</string>
+    <string name="title_export">Export</string>
+    <string name="title_filter">Filter</string>
+    <string name="title_guide0">Register an employee</string>
+    <string name="title_guide1">Employee Operations</string>
+    <string name="title_guide2">Show actual working hours (net working hours), salary</string>
+    <string name="title_guide3">Set hourly rates for employees</string>
+    <string name="title_help">Help</string>
+    <string name="title_home">Home</string>
+    <string name="title_hourly_wage">Set the hourly rate</string>
+    <string name="title_inquiry">Inquiry</string>
+    <string name="title_license">License</string>
+    <string name="title_manager_menu">Administrator Menu</string>
+    <string name="title_manual_record">Manual Record</string>
+    <string name="title_question0">Now preparing</string>
+    <string name="title_salary_calculation">Salary Calculation</string>
+    <string name="title_sc_mr">Salary Calculation・Manual Record</string>
+    <string name="title_setting">Settings</string>
+    <string name="title_sort">Sort</string>
+    <string name="title_staff_main">Employee Management</string>
+    <string name="title_terms_of_use">Terms of Use</string>
+    <string name="title_version">Version</string>
+
+    <string name="as_d_label_already">This name has already been registered</string>
+    <string name="as_d_label_enter_name">Enter the name of the employee you want to add</string>
+
+    <string name="cd_d_label">Current value : </string>
+
+    <string name="cp_a_label_agree">You agree to the Terms of Use</string>
+    <string name="cp_a_label_not_checked">Please agree to the Terms of Use and check the box</string>
+    <string name="cp_a_label_start">Start using</string>
+
+    <string name="dr_f_label_action">Type</string>
+    <string name="dr_f_label_date">Date</string>
+    <string name="dr_f_label_filter_disabled">Filter disabled</string>
+    <string name="dr_f_label_name">Name</string>
+    <string name="dr_f_label_not_correct">Please specify the conditions correctly</string>
+    <string name="dr_f_label_time">Time</string>
+
+    <string name="export_d_hint">Email address</string>
+    <string name="export_d_label_guide">Enter the email address to which you would like to send the records</string>
+    <string name="export_d_label_sending_completed">Sending completed</string>
+    <string name="export_d_label_warning">※If the file is corrupted, please resend it</string>
+
+    <string name="g0_a_label_0">To register an employee, please do the following.</string>
+    <string name="g0_a_label_1">1.Go to ”Settings”</string>
+    <string name="g0_a_label_2">2.Select ”Administrator Menu”</string>
+    <string name="g0_a_label_3">3.Select ”Employee Management”</string>
+    <string name="g0_a_label_4">4.Press the plus button ”+” in the lower right corner</string>
+    <string name="g0_a_label_5">5.Enter the name of the employee you want to add</string>
+    <string name="g0_a_label_6">6.Press the ”OK” button</string>
+
+    <string name="g1_a_label_0">If you are an employee, please do the following.</string>
+    <string name="g1_a_label_1">1.Go to ”Home”</string>
+    <string name="g1_a_label_2">2.Press the button with your name</string>
+    <string name="g1_a_label_3">3.Press one of the ”Work” / ”Break” / ”Outing” buttons</string>
+    <string name="g1_a_label_4">4.Confirm what is written in the dialog box that appears</string>
+    <string name="g1_a_label_5">5.Click the ”Save” button if the content is correct, or the "Cancel" button if it is not</string>
+
+    <string name="g2_a_label_0">To display the actual working hours (net working hours) and salaries, do the following.</string>
+    <string name="g2_a_label_1">1.Go to ”Settings”</string>
+    <string name="g2_a_label_2">2.Select ”Administrator Menu”</string>
+    <string name="g2_a_label_3">3.Select ”Salary Calculation・Manual Record”</string>
+    <string name="g2_a_label_4">4.Select "Salary Calculation" from the ”︙” option menu in the upper right corner</string>
+    <string name="g2_a_label_5">5.Enter both ”Employee Name” and ”Period of time”</string>
+    <string name="g2_a_label_6">6.Press the ”OK” button</string>
+
+    <string name="g3_a_label_0">To set the hourly rate for an employee, do the following.</string>
+    <string name="g3_a_label_1">1.Go to ”Settings”</string>
+    <string name="g3_a_label_2">2.Select ”Administrator Menu”</string>
+    <string name="g3_a_label_3">3.Select ”Employee Management”</string>
+    <string name="g3_a_label_4">4.Select the employee for whom you want to set the hourly rate</string>
+    <string name="g3_a_label_5">5.Select ”Hourly rate setting”</string>
+    <string name="g3_a_label_6">6.Enter the hourly rate</string>
+    <string name="g3_a_label_7">7.Press the ”Save” button</string>
+
+    <string name="help_a_label_guide">Guide</string>
+    <string name="help_a_label_question">Frequently Asked Questions</string>
+
+    <string name="mr_d_label_action">Type : </string>
+    <string name="mr_d_label_all_requirements">Please enter all requirements</string>
+    <string name="mr_d_label_date">Date:</string>
+    <string name="mr_d_label_time">Time:</string>
+    <string name="mr_d_label_time_hint">12:00</string>
+
+    <string name="sc_a_label_salary">(hours) \n The salary is　</string>
+    <string name="sc_a_label_working_hours">The actual working hours in the display range are　</string>
+
+    <string name="setting_f_label_information_here">Please enter your information here</string>
+
+    <string name="sm_f_hint">Search</string>
+    <string name="sm_f_label_hourly_wage">Hourly rate:　</string>
+
+    <string name="sort_d_label_asc">Date Ascending</string>
+    <string name="sort_d_label_desc">Date Descending</string>
+
+    <string name="splash_a_label">loading.....</string>
+
+</resources>
